@@ -2,7 +2,7 @@
 
 A simple ESP32-S3 oscilloscope that measures periodic low-voltage signals, captures five periods, and displays the waveform on a 128x64 SSD1306 OLED.
 
-[示波器效果图](./Weixin Image_20260827151245_111_2.jpg)
+![示波器效果图](./Weixin%20Image_20260827151245_111_2.jpg)
 
 ## Wiring
 
